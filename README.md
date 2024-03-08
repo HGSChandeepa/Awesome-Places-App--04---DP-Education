@@ -1,16 +1,11 @@
-# awesome_places_app_04
+![DP Education IT Campus](https://dpeducation.lk/en/assets/images/brands/en/it-campus.png)
 
-A new Flutter project.
+# AWESOME PLACES - Application 04 ⚡️
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+This repository contains the source code of the Flutter Grocery Application. This application is developed using the Flutter framework and Dart.Here we are mainly forcussing on the folder separation and the widgets separation. And how to reuse the widgets in the application.Also we will discuss about navigation and routing in the application.
 
-A few resources to get you started if this is your first Flutter project:
+## What you will create
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Finished App](https://github.com/HGSChandeepa/Awesome-Places-App--04---Dp-Education/blob/main/assets/app4.png)
